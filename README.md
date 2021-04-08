@@ -1,5 +1,7 @@
-FireFox25
+Hello there,
+I am FireFox25
 
-Hello there. This is the official repository to the firefox25.github.com webpage.
+So this is my new website
 
-Do not touch this!
+My Github page:
+https://github.com/FireFox25
